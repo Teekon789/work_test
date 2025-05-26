@@ -3,7 +3,7 @@
 import { useState } from 'react'
 import { Save, X, FileImage, Loader2 } from 'lucide-react'
 
-// Component สำหรับฟอร์มเพิ่ม/แก้ไขสมาชิก
+// สำหรับฟอร์มเพิ่ม/แก้ไขสมาชิก
 const MemberForm = ({ 
   formData, 
   setFormData, 

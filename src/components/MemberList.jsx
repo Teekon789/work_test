@@ -2,7 +2,7 @@
 
 import { User, Edit2, Trash2, Calendar, Loader2 } from 'lucide-react'
 
-// Component สำหรับแสดงรายการสมาชิก
+//  สำหรับแสดงรายการสมาชิก
 const MemberList = ({ 
   members, 
   loading, 

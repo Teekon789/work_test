@@ -1,7 +1,6 @@
 "use client"
 
 import React, { useState, useEffect } from 'react'
-import { Users, Loader2 } from 'lucide-react'
 import Header from '@/components/Header'
 import SearchControls from '@/components/SearchControls'
 import MemberForm from '@/components/MemberForm'

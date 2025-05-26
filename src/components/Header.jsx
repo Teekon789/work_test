@@ -2,7 +2,7 @@
 
 import { Users, BarChart3 } from 'lucide-react'
 
-// Component ส่วนหัวของแอปพลิเคชัน
+// ส่วนหัวของแอปพลิเคชัน
 const Header = ({ currentView, setCurrentView }) => {
   return (
     <div className="bg-white rounded-xl shadow-lg p-6 mb-6">

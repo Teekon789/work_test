@@ -2,7 +2,7 @@
 
 import { Search, Plus } from 'lucide-react'
 
-// Component สำหรับค้นหาและเรียงลำดับ
+//  สำหรับค้นหาและเรียงลำดับ
 const SearchControls = ({ 
   searchTerm, 
   setSearchTerm, 
