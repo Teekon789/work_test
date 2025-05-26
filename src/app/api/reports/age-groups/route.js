@@ -18,7 +18,7 @@ export async function GET() {
       { range: '21-30', min: 21, max: 30 },
       { range: '31-40', min: 31, max: 40 },
       { range: '41-50', min: 41, max: 50 },
-      { range: '51+', min: 51, max: 999 } // ใช้ 999 แทน Infinity
+      { range: '51+', min: 51, max: 999 } 
     ];
 
     // คำนวณจำนวนสมาชิกในแต่ละกลุ่มอายุ
